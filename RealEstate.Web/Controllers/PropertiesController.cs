@@ -59,7 +59,7 @@ namespace RealEstate.Web.Controllers
 
             }).ToList();
 
-            return Properties;
+                return Properties;
         }
 
         // GET: api/Properties/5
